@@ -1,0 +1,11 @@
+.settings
+.project
+*.txt
+LICENSE
+Makefile
+test_?x
+uart_at
+*.exe
+.cproject
+/Debug/
+/demo/
